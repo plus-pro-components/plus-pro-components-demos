@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.min.css
+tests/**
+coverage/
+index.html
+*.vue
