@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "element-plus": "^2.4.0",
-    "plus-pro-components": "0.0.1-beta.16",
+    "element-plus": "^2.6.3",
+    "plus-pro-components": "0.1.8",
     "vue": "^3.2.13"
   },
   "devDependencies": {

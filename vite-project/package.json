@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "element-plus": "^2.4.0",
-    "plus-pro-components": "0.0.1-beta.16",
+    "element-plus": "^2.6.3",
+    "plus-pro-components": "0.1.8",
     "vue": "^3.3.4"
   },
   "devDependencies": {
