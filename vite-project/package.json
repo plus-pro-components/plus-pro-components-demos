@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "element-plus": "^2.6.3",
-    "plus-pro-components": "0.1.8",
+    "plus-pro-components": "0.1.14",
     "vue": "^3.3.4"
   },
   "devDependencies": {

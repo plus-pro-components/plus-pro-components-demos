@@ -9,8 +9,8 @@ dependencies:
     specifier: ^2.6.3
     version: 2.6.3(vue@3.3.4)
   plus-pro-components:
-    specifier: 0.1.8
-    version: 0.1.8(element-plus@2.6.3)(vue@3.3.4)
+    specifier: 0.1.14
+    version: 0.1.14(element-plus@2.6.3)(vue@3.3.4)
   vue:
     specifier: ^3.3.4
     version: 3.3.4
@@ -70,14 +70,6 @@ packages:
   /@ctrl/tinycolor@3.6.1:
     resolution: {integrity: sha512-SITSV6aIXsuVNV3f3O0f2n/cgyEDWoSqtZMYiAmcsYHydcKrOz3gUxB/iXd/Qf08+IZX4KpgNbvUdMBmWz+kcA==}
     engines: {node: '>=10'}
-    dev: false
-
-  /@element-plus/icons-vue@2.1.0(vue@3.3.4):
-    resolution: {integrity: sha512-PSBn3elNoanENc1vnCfh+3WA9fimRC7n+fWkf3rE5jvv+aBohNHABC/KAR5KWPecxWxDTVT1ERpRbOMRcOV/vA==}
-    peerDependencies:
-      vue: ^3.2.0
-    dependencies:
-      vue: 3.3.4
     dev: false
 
   /@element-plus/icons-vue@2.3.1(vue@3.3.4):
@@ -867,13 +859,13 @@ packages:
       pathe: 1.1.1
     dev: true
 
-  /plus-pro-components@0.1.8(element-plus@2.6.3)(vue@3.3.4):
-    resolution: {integrity: sha512-76sskvFTz81B4pIg6RKxwBr6IdVLf5aTkcXQLKXuxDxGk66ef8peGBa5fqZleD92VPSfVzZPLcCgCx21agEbmA==}
+  /plus-pro-components@0.1.14(element-plus@2.6.3)(vue@3.3.4):
+    resolution: {integrity: sha512-+SPOFiY488sEXW6gzj22BKjwEkTWDo3DLyuokLg061PJHdKSMIlLBjYwsi6WAB/tS2bAl0RfjeJiPWCkbMhZCg==}
     peerDependencies:
       element-plus: ^2.3.4
       vue: ^3.2.0
     dependencies:
-      '@element-plus/icons-vue': 2.1.0(vue@3.3.4)
+      '@element-plus/icons-vue': 2.3.1(vue@3.3.4)
       element-plus: 2.6.3(vue@3.3.4)
       lodash-es: 4.17.21
       sortablejs: 1.15.0
